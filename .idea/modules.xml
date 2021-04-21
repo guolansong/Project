@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Management System.iml" filepath="$PROJECT_DIR$/.idea/Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWeb/TestWeb.iml" filepath="$PROJECT_DIR$/TestWeb/TestWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/javaweb.iml" filepath="$PROJECT_DIR$/JavaWeb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/javaweb-admin/javaweb-admin.iml" filepath="$PROJECT_DIR$/JavaWeb/javaweb-admin/javaweb-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/javaweb-common/javaweb-common.iml" filepath="$PROJECT_DIR$/JavaWeb/javaweb-common/javaweb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/javaweb-generator/javaweb-generator.iml" filepath="$PROJECT_DIR$/JavaWeb/javaweb-generator/javaweb-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/javaweb-quartz/javaweb-quartz.iml" filepath="$PROJECT_DIR$/JavaWeb/javaweb-quartz/javaweb-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/javaweb-system/javaweb-system.iml" filepath="$PROJECT_DIR$/JavaWeb/javaweb-system/javaweb-system.iml" />
+    </modules>
+  </component>
+</project>

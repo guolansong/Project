@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javaweb-quartz" />
+        <module name="javaweb-system" />
+        <module name="javaweb-admin" />
+        <module name="javaweb-generator" />
+        <module name="javaweb-common" />
+        <module name="TestWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javaweb" target="1.8" />
+      <module name="javaweb-admin" target="1.8" />
+      <module name="javaweb-common" target="1.8" />
+      <module name="javaweb-generator" target="1.8" />
+      <module name="javaweb-quartz" target="1.8" />
+      <module name="javaweb-system" target="1.8" />
+      <module name="TestWeb" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="javaweb-admin" options="-parameters" />
+      <module name="javaweb-common" options="-parameters" />
+      <module name="javaweb-generator" options="-parameters" />
+      <module name="javaweb-quartz" options="-parameters" />
+      <module name="javaweb-system" options="-parameters" />
+    </option>
+  </component>
+</project>
